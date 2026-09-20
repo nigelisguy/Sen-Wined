@@ -9,5 +9,3 @@ Original: https://senharuma.com/ (by https://github.com/harumazzz)
 
 ---
 
-## How does this work?
-Wine is a compatability layer
