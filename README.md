@@ -7,7 +7,7 @@ Sen, A PVZ2 Modding Tool for MacOS using ~~Wine64~~/Crossover as a port.
 
 ---
 
-![Screenshot](assets/winmoddinggui1.png)
+![Screenshot](winmoddinggui1.png)
 
 ---
 
